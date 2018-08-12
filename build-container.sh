@@ -1,1 +1,1 @@
-docker build -t max/story-manager .
+docker build -t underlunchers/story-manager .
