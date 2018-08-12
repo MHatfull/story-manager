@@ -1,4 +1,12 @@
 {
+  "name": "story-manager",
+  "version": "1.0.0",
+  "description": "Manages stories",
+  "author": "Max Hatfull <max.hatfull@btinternet.com>",
+  "main": "http-server.js",
+  "scripts": {
+    "start": "node http-server.js"
+  },
   "dependencies": {
     "aws-sdk": "^2.291.0",
     "circular-json": "^0.5.5",
